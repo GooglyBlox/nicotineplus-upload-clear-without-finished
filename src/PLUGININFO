@@ -1,5 +1,5 @@
 Name = "Upload Clear Without Finished"
-Version = "2026-04-18r00"
+Version = "2026-04-18r01"
 Author = "GooglyBlox"
 Authors = ["GooglyBlox"]
 Description = "Removes upload clear-menu options that clear Finished uploads."
