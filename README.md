@@ -11,6 +11,8 @@ Removed entries:
 
 The remaining default clear options are `Cancelled`, `Failed`, `User Logged Off`, and `Queued...`.
 
+<img width="327" height="502" alt="image" src="https://github.com/user-attachments/assets/58bf8d60-2dcb-4b63-94c7-3591785a9ca6" />
+
 ## What It Changes
 
 The plugin leaves finished uploads in the uploads list by removing clear actions that would include `Finished`. It does not change Nicotine+'s transfer statuses or upload history; it only changes which clear actions are available in the uploads clear menu.
